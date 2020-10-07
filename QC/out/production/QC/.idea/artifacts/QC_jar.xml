@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" build-on-make="true" name="QC:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/QC_jar</output-path>
+    <root id="archive" name="QC.jar">
+      <element id="module-output" name="QC" />
+    </root>
+  </artifact>
+</component>

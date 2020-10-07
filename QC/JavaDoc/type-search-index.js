@@ -1,0 +1,1 @@
+typeSearchIndex = [{"p":"techtest.com","l":"LRU_distributed"}]

@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ArtifactsWorkspaceSettings">
+    <artifacts-to-build>
+      <artifact name="compareVersion:jar" />
+    </artifacts-to-build>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="8ede02b0-3e16-4c86-bf7c-63e1ec32fd10" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JUnit4 Test Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1iMwBL4ueM5XuR9ieDLUIWwvIwc" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="Downloaded.Files.Path.Enabled" value="false" />
+    <property name="Repository.Attach.Annotations" value="false" />
+    <property name="Repository.Attach.JavaDocs" value="false" />
+    <property name="Repository.Attach.Sources" value="false" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit4" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit4" value="" />
+    <property name="project.structure.last.edited" value="Artifacts" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CreateTestDialog.RecentsKey">
+      <recent name="techtest.com" />
+    </key>
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.Main">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="techtest.com.QB_Main" />
+      <module name="compareVersion" />
+      <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
+      <RunnerSettings RunnerId="Run" />
+      <ConfigurationWrapper RunnerId="Run" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="QB_MainTest.compare" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="compareVersion" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="techtest.com.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="techtest.com" />
+      <option name="MAIN_CLASS_NAME" value="techtest.com.QB_MainTest" />
+      <option name="METHOD_NAME" value="compare" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.Main" />
+      <item itemvalue="JUnit.QB_MainTest.compare" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main" />
+        <item itemvalue="JUnit.QB_MainTest.compare" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="8ede02b0-3e16-4c86-bf7c-63e1ec32fd10" name="Default Changelist" comment="" />
+      <created>1601730634680</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1601730634680</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="382" y="168" key="#com.intellij.ide.util.TreeClassChooserDialog" timestamp="1601753175399">
+      <screen x="0" y="0" width="1304" height="768" />
+    </state>
+    <state x="382" y="168" key="#com.intellij.ide.util.TreeClassChooserDialog/0.0.1304.768@0.0.1304.768" timestamp="1601753175399" />
+    <state width="1261" height="222" key="GridCell.Tab.0.bottom" timestamp="1601758209831">
+      <screen x="0" y="0" width="1304" height="768" />
+    </state>
+    <state width="1261" height="222" key="GridCell.Tab.0.bottom/0.0.1304.768@0.0.1304.768" timestamp="1601758209831" />
+    <state width="1261" height="222" key="GridCell.Tab.0.center" timestamp="1601758209831">
+      <screen x="0" y="0" width="1304" height="768" />
+    </state>
+    <state width="1261" height="222" key="GridCell.Tab.0.center/0.0.1304.768@0.0.1304.768" timestamp="1601758209831" />
+    <state width="1261" height="222" key="GridCell.Tab.0.left" timestamp="1601758209831">
+      <screen x="0" y="0" width="1304" height="768" />
+    </state>
+    <state width="1261" height="222" key="GridCell.Tab.0.left/0.0.1304.768@0.0.1304.768" timestamp="1601758209831" />
+    <state width="1261" height="222" key="GridCell.Tab.0.right" timestamp="1601758209831">
+      <screen x="0" y="0" width="1304" height="768" />
+    </state>
+    <state width="1261" height="222" key="GridCell.Tab.0.right/0.0.1304.768@0.0.1304.768" timestamp="1601758209831" />
+    <state x="-17" y="0" key="SettingsEditor" timestamp="1601753345184">
+      <screen x="0" y="0" width="1304" height="768" />
+    </state>
+    <state x="-17" y="0" key="SettingsEditor/0.0.1304.768@0.0.1304.768" timestamp="1601753345184" />
+    <state x="357" y="277" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD" timestamp="1601742520529">
+      <screen x="0" y="0" width="1304" height="768" />
+    </state>
+    <state x="357" y="277" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD/0.0.1304.768@0.0.1304.768" timestamp="1601742520529" />
+    <state x="423" y="87" key="com.intellij.testIntegration.createTest.CreateTestDialog" timestamp="1601742537889">
+      <screen x="0" y="0" width="1304" height="768" />
+    </state>
+    <state x="423" y="87" key="com.intellij.testIntegration.createTest.CreateTestDialog/0.0.1304.768@0.0.1304.768" timestamp="1601742537889" />
+    <state x="315" y="89" key="search.everywhere.popup" timestamp="1601741358179">
+      <screen x="0" y="0" width="1304" height="768" />
+    </state>
+    <state x="315" y="89" key="search.everywhere.popup/0.0.1304.768@0.0.1304.768" timestamp="1601741358179" />
+  </component>
+</project>
