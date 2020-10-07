@@ -1,4 +1,4 @@
-# OrmucoTechTest
+# Java_OrmucoTechTest
 
 This is a solution for Ormuco technical test, including all three questions, QA, QB and QC
 
