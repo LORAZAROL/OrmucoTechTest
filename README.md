@@ -9,4 +9,6 @@ For QA and QB, each has an executable jar that can be run on console.
 
 QC is a non-executable jar, including 2 classes: Cache and LRU_distributed. In general, they were similar to the traditional Client-Server structure, as the client requests data from the cache from my understanding. 
 
+QC has some missing/incomplete features. The program does not make sure the data across can be strictly real time across regions. Also the locality was not included.
+
 For all three questions, a series of JavaDoc is provided. 
